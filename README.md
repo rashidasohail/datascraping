@@ -1,4 +1,13 @@
 # datascraping
+
+**DARAZ WEB SCRAPING.ipynb
+
+Scrape product data from Daraz.pk using Selenium 
+Columns extracted includes User Name, Review and Helpful Score
+
+
+**DARAZ WEB SCRAPING 2.ipynb
+
 Scrape products data from Daraz.pk using Selenium 
 Columns extracted includes Name, Current Price,Discount,Old Price,Shipping Status and No.of Reviews
 which can be used for various purposes, especially in the realm of e-commerce and market analysis:
